@@ -72,11 +72,11 @@ EOF
 #+END_SRC
 
 
-*** iowrf (not necessary as wrf_intep does de-staggering?)
+*** iowrf
 
 - select a region
 - average to smaller resolution (and files)
-- de-staggering
+- (de-staggering)
 
 #+BEGIN_SRC bash
 mkdir -p ~/wrf/iowrf
