@@ -74,6 +74,8 @@ EOF
 
 *** iowrf (not necessary as wrf_intep does de-staggering?)
 
+- select a region
+- average to smaller resolution (and files)
 - de-staggering
 
 #+BEGIN_SRC bash
